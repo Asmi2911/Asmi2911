@@ -30,6 +30,7 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
 ## 🧠 What I’m Currently Learning
 - Advanced Machine Learning Techniques
 - Big Data
+- Realtime Embedded Systems
 
 ## 🛠️ Skills & Tools
 
