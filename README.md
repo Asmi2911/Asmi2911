@@ -19,7 +19,6 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
         <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
         <li>🎉 I have graduated from the Ramrao Adik Institute of Technology with a Bachelor's in <strong>Computer Engineering</strong>.</li>
         <li>⚡ Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻.</li>
-
       </ul>
     </td>
     <td>
