@@ -14,8 +14,8 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
   <tr>
     <td>
       <ul>
-        <li>🎓 Master's student in **Computer Engineering** at **NYU Tandon**.</li>
-        <li>💻 Passionate about **Full-Stack Development**, **Data Analytics**, and **AI**.</li>
+        <li>🎓 Master's student in <strong>Computer Engineering<strong> at <strong>NYU Tandon<strong>.</li>
+        <li>💻 Passionate about <strong>Full-Stack Development<strong>, <strong>Data Analytics<strong>, and <strong>AI<strong>.</li>
         <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
         <li>🎉 I have graduated from the Ramaro Adik Institute of Technology with a Bachelors in Computer Engg.</li>
         <li>Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻</li>
@@ -26,13 +26,6 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
     </td>
   </tr>
 </table>
-
-
-## 🌟 About Me
-- 🎓 Master's student in **Computer Engineering** at **NYU Tandon**.
-- 💻 Passionate about **Full-Stack Development**, **Data Analytics**, and **AI**.
-- 🚀 Continuously learning and building innovative projects to solve real-world problems.
-- 🎉 I have graduated from the Ramaro Adik Institute of Technology with a Bachelors in Computer Engg.
 
 ## 🧠 What I’m Currently Learning
 - Advanced Machine Learning Techniques
