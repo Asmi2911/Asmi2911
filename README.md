@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Asmita Sonavane!
 
-<!--
-**Asmi2911/Asmi2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://i.imgur.com/XXwO3Gh.png) <!-- Customize this image with your details -->
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Master's student in **Computer Engineering** at **NYU Tandon**.
+- 💻 Passionate about **Full-Stack Development**, **Data Analytics**, and **AI**.
+- 🚀 Continuously learning and building innovative projects to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Programming Languages**: Python, Java, JavaScript, C++
+- **Frameworks & Libraries**: React, Node.js, Angular, TensorFlow
+- **Databases**: MySQL, MongoDB, DynamoDB
+- **Other Tools**: AWS, Docker, Power BI, Tableau, Git
+
+## 📊 GitHub Stats
+![Asmita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmi2911&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi2911&layout=compact&theme=radical)
+
+## 🧠 What I’m Currently Learning
+- Advanced Machine Learning Techniques
+- Big Data
+
+## 📬 Connect with Me
+- **LinkedIn**: [linkedin.com/in/asmita2911](https://linkedin.com/in/asmita2911)
+
+![Footer](https://i.imgur.com/BOEWnvG.png) <!-- Another custom footer image -->
