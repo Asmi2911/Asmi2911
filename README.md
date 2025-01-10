@@ -14,11 +14,12 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
   <tr>
     <td>
       <ul>
-        <li>🎓 Master's student in <strong>Computer Engineering<strong> at <strong>NYU Tandon<strong>.</li>
-        <li>💻 Passionate about <strong>Full-Stack Development<strong>, <strong>Data Analytics<strong>, and <strong>AI<strong>.</li>
+        <li>🎓 Master's student in <strong>Computer Engineering</strong> at <strong>NYU Tandon</strong>.</li>
+        <li>💻 Passionate about <strong>Full-Stack Development</strong>, <strong>Data Analytics</strong>, and <strong>AI</strong>.</li>
         <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
-        <li>🎉 I have graduated from the Ramaro Adik Institute of Technology with a Bachelors in Computer Engg.</li>
-        <li>Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻</li>
+        <li>🎉 I have graduated from the Ramrao Adik Institute of Technology with a Bachelor's in <strong>Computer Engineering</strong>.</li>
+        <li>⚡ Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻.</li>
+
       </ul>
     </td>
     <td>
