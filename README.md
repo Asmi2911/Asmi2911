@@ -1,8 +1,32 @@
- Hey There!!, I am [Asmita Sonavane](#)
+<div align="center">
+
+# Hi there 👋, I'm Asmita Sonavane!
 
 I am a **Software Engineer – AI/ML** based in the **United States** | originally from **India**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmita2911)
+
+</div>
+
+## 🧑‍💻 About Me:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Master's student in **Computer Engineering** at **NYU Tandon**.</li>
+        <li>💻 Passionate about **Full-Stack Development**, **Data Analytics**, and **AI**.</li>
+        <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
+        <li>🎉 I have graduated from the Ramaro Adik Institute of Technology with a Bachelors in Computer Engg.</li>
+        <li>Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqcTM1eTgwbTFqZm9wbHVjMTJneGp2NWIzbDRpdzZhMDh0MHZodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding GIF" width="300px">
+    </td>
+  </tr>
+</table>
+
 
 ## 🌟 About Me
 - 🎓 Master's student in **Computer Engineering** at **NYU Tandon**.
@@ -21,7 +45,6 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   
   <!-- Frameworks and Libraries -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
@@ -38,7 +61,6 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
   <!-- Databases -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/dynamo-db.png" alt="DynamoDB" />
   
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
