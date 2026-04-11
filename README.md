@@ -15,10 +15,10 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
     <td>
       <ul>
         <li>🎓 Master's student in <strong>Computer Engineering</strong> at <strong>NYU Tandon</strong>.</li>
-        <li>💻 Passionate about <strong>Full-Stack Development</strong>, <strong>Data Analytics</strong>, and <strong>AI</strong>.</li>
         <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
-        <li>🎉 I have graduated from the Ramrao Adik Institute of Technology with a Bachelor's in <strong>Computer Engineering</strong>.</li>
-        <li>⚡ Hobbies include playing badminton 🏸, exercising 💪, exploring new technologies 🌐, and building side projects 💻.</li>
+        <li>💻 I’m interested in computer science and engineering (Machine Learning System, Large Language Model System, Distributed machine learning, Federated               Learning, Deap Learning, and CV, NLP more specifically).</li>
+        <li>👋 I’m looking to collaborate on ...LLM, MLSys, LLM post-training, etc.</li>
+        <li>📫 How to reach me: my email address is as20428@nyu.edu</li>
       </ul>
     </td>
     <td>
@@ -26,11 +26,6 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
     </td>
   </tr>
 </table>
-
-## 🧠 What I’m Currently Learning
-- Advanced Machine Learning Techniques
-- Big Data
-- Realtime Embedded Systems
 
 ## 🛠️ Skills & Tools
 
