@@ -8,28 +8,23 @@ I am a **Software Engineer – AI/ML** based in the **United States**
 
 </div>
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
 <table>
-  <tr>
-    <td>
-      <ul>
-  <li>🎓 M.S. in <strong>Computer Engineering</strong> from <strong>NYU Tandon</strong> (2026).</li>
-  <li>💻 Building <strong>ML systems, backend services, and distributed applications</strong> with Python, Java, and Kubernetes.</li>
-  <li>🔬 Interested in <strong>LLM inference, model optimization, federated learning, and real-time ML serving</strong>.</li>
-  <li>🤝 Open to collaborating on <strong>ML infrastructure, RAG, and agentic AI</strong> projects.</li>
-  <li>📫 Reach me at <a href="mailto:as20428@nyu.edu">as20428@nyu.edu</a>.</li>
+<tr>
+<td width="65%" valign="top">
+<ul>
+<li>🎓 M.S. in <strong>Computer Engineering</strong> from <strong>NYU Tandon</strong> (2026).</li>
+<li>💻 Building <strong>ML systems, backend services, and distributed applications</strong> with Python, Java, and Kubernetes.</li>
+<li>🔬 Interested in <strong>LLM inference, model optimization, federated learning, and real-time ML serving</strong>.</li>
+<li>🤝 Open to collaborating on <strong>ML infrastructure, RAG, and agentic AI</strong> projects.</li>
+<li>📫 Reach me at <a href="mailto:as20428@nyu.edu">as20428@nyu.edu</a>.</li>
 </ul>
-      
-    </td>
-    <td>
-      <img
-  src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif"
-  alt="Coding animation"
-  width="300"
-/>
-    </td>
-  </tr>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding animation" width="300">
+</td>
+</tr>
 </table>
 
 ## 🛠️ Skills & Tools
