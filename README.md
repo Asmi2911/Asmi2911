@@ -8,24 +8,26 @@ I am a **Software Engineer – AI/ML** based in the **United States**
 
 </div>
 
+
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-<ul>
-<li>🎓 M.S. in <strong>Computer Engineering</strong> from <strong>NYU Tandon</strong> (2026).</li>
-<li>💻 Building <strong>ML systems, backend services, and distributed applications</strong> with Python, Java, and Kubernetes.</li>
-<li>🔬 Interested in <strong>LLM inference, model optimization, federated learning, and real-time ML serving</strong>.</li>
-<li>🤝 Open to collaborating on <strong>ML infrastructure, RAG, and agentic AI</strong> projects.</li>
-<li>📫 Reach me at <a href="mailto:as20428@nyu.edu">as20428@nyu.edu</a>.</li>
-</ul>
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding animation" width="300">
-</td>
-</tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Developer working at a desk" width="260">
+
+<h3>🎓 NYU Tandon · M.S. Computer Engineering</h3>
+<p>Class of 2026 · Based in the United States</p>
+
+<h3>💻 Building software and ML systems</h3>
+<p>Backend services and distributed applications with Python, Java, and Kubernetes.</p>
+
+<h3>🔬 Exploring efficient AI</h3>
+<p>LLM inference, model optimization, federated learning, and real-time serving.</p>
+
+<h3>🤝 Let’s collaborate</h3>
+<p>ML infrastructure, RAG, and agentic AI projects.</p>
+
+<p>📫 <a href="mailto:as20428@nyu.edu"><strong>as20428@nyu.edu</strong></a></p>
+
+<br clear="both">
 
 ## 🛠️ Skills & Tools
 
