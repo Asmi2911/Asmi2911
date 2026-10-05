@@ -8,24 +8,22 @@ I am a **Software Engineer – AI/ML** based in the **United States**
 
 </div>
 
-
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Developer working at a desk" width="260">
+<img align="right" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding illustration" width="220">
 
-<h3>🎓 NYU Tandon · M.S. Computer Engineering</h3>
-<p>Class of 2026 · Based in the United States</p>
+<p>🎓 M.S. in <strong>Computer Engineering</strong> · NYU Tandon, 2026</p>
 
-<h3>💻 Building software and ML systems</h3>
-<p>Backend services and distributed applications with Python, Java, and Kubernetes.</p>
+<p>💻 Building <strong>ML systems and backend services</strong><br>
+with Python, Java, and Kubernetes.</p>
 
-<h3>🔬 Exploring efficient AI</h3>
-<p>LLM inference, model optimization, federated learning, and real-time serving.</p>
+<p>🔬 Focused on <strong>LLM inference, model optimization,<br>
+and distributed ML.</strong></p>
 
-<h3>🤝 Let’s collaborate</h3>
-<p>ML infrastructure, RAG, and agentic AI projects.</p>
+<p>🤝 Open to collaborating on <strong>ML infrastructure,<br>
+RAG, and agentic AI.</strong></p>
 
-<p>📫 <a href="mailto:as20428@nyu.edu"><strong>as20428@nyu.edu</strong></a></p>
+<p>📫 <a href="mailto:as20428@nyu.edu">as20428@nyu.edu</a></p>
 
 <br clear="both">
 
