@@ -23,7 +23,11 @@ I am a **Software Engineer – AI/ML** based in the **United States**
       
     </td>
     <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqcTM1eTgwbTFqZm9wbHVjMTJneGp2NWIzbDRpdzZhMDh0MHZodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding GIF" width="300px">
+      <img
+  src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif"
+  alt="Coding animation"
+  width="300"
+/>
     </td>
   </tr>
 </table>
