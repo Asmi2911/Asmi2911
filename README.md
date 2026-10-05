@@ -10,7 +10,7 @@ I am a **Software Engineer – AI/ML** based in the **United States**
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding illustration" width="220">
+<img align="right" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding illustration" width="250">
 
 <p>🎓 M.S. in <strong>Computer Engineering</strong> · NYU Tandon, 2026</p>
 
