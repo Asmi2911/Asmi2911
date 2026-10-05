@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Asmita Sonavane!
 
-I am a **Software Engineer – AI/ML** based in the **United States** | originally from **India**
+I am a **Software Engineer – AI/ML** based in the **United States**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmita2911)
 
@@ -14,12 +14,13 @@ I am a **Software Engineer – AI/ML** based in the **United States** | original
   <tr>
     <td>
       <ul>
-        <li>🎓 Master's student in <strong>Computer Engineering</strong> at <strong>NYU Tandon</strong>.</li>
-        <li>🚀 Continuously learning and building innovative projects to solve real-world problems.</li>
-        <li>💻 I’m interested in computer science and engineering (Machine Learning System, Large Language Model System, Distributed machine learning, Federated               Learning, Deap Learning, and CV, NLP more specifically).</li>
-        <li>👋 I’m looking to collaborate on ...LLM, MLSys, LLM post-training, etc.</li>
-        <li>📫 How to reach me: my email address is as20428@nyu.edu</li>
-      </ul>
+  <li>🎓 M.S. in <strong>Computer Engineering</strong> from <strong>NYU Tandon</strong> (2026).</li>
+  <li>💻 Building <strong>ML systems, backend services, and distributed applications</strong> with Python, Java, and Kubernetes.</li>
+  <li>🔬 Interested in <strong>LLM inference, model optimization, federated learning, and real-time ML serving</strong>.</li>
+  <li>🤝 Open to collaborating on <strong>ML infrastructure, RAG, and agentic AI</strong> projects.</li>
+  <li>📫 Reach me at <a href="mailto:as20428@nyu.edu">as20428@nyu.edu</a>.</li>
+</ul>
+      
     </td>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqcTM1eTgwbTFqZm9wbHVjMTJneGp2NWIzbDRpdzZhMDh0MHZodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Coding GIF" width="300px">
